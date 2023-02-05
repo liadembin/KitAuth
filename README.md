@@ -39,3 +39,8 @@ You can preview the production build with `npm run preview`.
 
 SPECIAL THANKS
 hundabyte
+RUN THIS STARTER PACK
+npm install
+Add prisma url to .env
+run prisma generate
+then npm run dev
